@@ -4,3 +4,5 @@ This is my game of 2048 made with pygame.
 Not gonna lie i used a bit of ai to help when i got stuck or for some things i didn't knew, cause im still a beginner.
 
 Also videos from Tech with Tim have helped inspiring me not give up coding and help me learn.
+
+I'm going to release it when its actually playable, so bear with me cause my code is definitely messy and unstructured.
